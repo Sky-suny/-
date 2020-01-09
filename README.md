@@ -1,2 +1,2 @@
 # -
-my music 、github
+my music /github
